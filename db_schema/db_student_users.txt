@@ -1,0 +1,22 @@
+Use lms;
+
+create table users(
+username VARCHAR(50) NOT NULL UNIQUE,
+
+password VARCHAR(255) NOT NULL PRIMARY KEY
+
+);
+
+Create table students(
+
+Id int NOT NULL PRIMARY KEY,
+
+Name varchar(50),
+
+Department varchar(50)
+
+):
+
+insert into users( username, password) values ('admin1' , '1234');
+
+select * from users;
