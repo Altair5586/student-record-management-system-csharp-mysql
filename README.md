@@ -38,8 +38,8 @@ How to Run:
 5. Login using the admin credentials stored in the users table.
 
 Screenshots:
-Login:
+
 <img width="380" height="353" alt="image" src="https://github.com/user-attachments/assets/3ce37400-55ae-4c6a-ae5a-c7098c26578d" />
-Dashboard:
+
 <img width="697" height="518" alt="image" src="https://github.com/user-attachments/assets/31e8369e-c352-4eeb-9921-639f3e584c68" />
 
