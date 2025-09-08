@@ -16,7 +16,7 @@ Prerequisites:
 3. Visual Studio (recommended) 
 
 Database setup:
-1.First, create the student and user tables using the script db_student_users.sql
+1.First, create the student and user tables using the script db_student_users.sql in db_schema folder.
 2. After creating the tables, run the following queries in MySQL: 
 
 To check the users table:
